@@ -10,7 +10,9 @@ Các thuật toán được áp dụng để giải các bài toán tối ưu nh
 ## Các thư viện chung
 1. Cài Python >= 3.10.
 2. Cài thư viện cần thiết:
+   
 pip install numpy
+
 pip install matplotlib
 
 ---
