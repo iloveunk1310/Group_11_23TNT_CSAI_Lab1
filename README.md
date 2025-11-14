@@ -2,7 +2,7 @@
 
 ## Mô tả dự án
 
-Repository này chứa các cài đặt cho 5 thuật toán tối ưu mô phỏng tự nhiên phổ biến trong lĩnh vực Trí tuệ Nhân tạo: **ACO**, **PSO**, **Firefly Algorithm**, **Cuckoo Search**, và **Artificial Bee Colony (ABC)**. 
+Repository này chứa các cài đặt cho 5 thuật toán tối ưu mô phỏng tự nhiên phổ biến trong lĩnh vực Trí tuệ Nhân tạo: **Ant colony optimization (ACO)**, **Partical swarm optimization (PSO)**, **Firefly Algorithm**, **Cuckoo Search**, và **Artificial Bee Colony (ABC)**. 
 Các thuật toán được áp dụng để giải các bài toán tối ưu như TSP hoặc hàm liên tục trong toán học.
 
 ---
@@ -55,7 +55,7 @@ pip install matplotlib
 
 ## 4. Cuckoo Search (CS)
 
-**Ý tưởng:** Dựa trên hành vi ký sinh của chim cu: đặt trứng vào tổ chim khác. Thuật toán sử dụng Lévy Flight để khám phá mạnh mẽ không gian tìm kiếm.
+**Ý tưởng:** Dựa trên hành vi ký sinh của chim cu: đặt trứng vào tổ chim khác.
 
 
 **Cài đặt:**
